@@ -1,2 +1,2 @@
 // content.js
-alert("Hello from your Chrome extension!")
+alert("This is a sample chrome extension for learning purpose!")
